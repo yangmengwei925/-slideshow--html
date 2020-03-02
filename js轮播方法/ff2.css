@@ -1,0 +1,44 @@
+.f2{
+    margin-top: 20px;
+    
+}
+.dian2{
+    width: 710px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    margin-top: -33px;
+}
+#text2{
+    margin-left: 60px;
+    
+}
+#text2 a{
+    text-decoration: none;
+    color: white;
+    line-height: 30px;
+}
+.ul2{
+    margin-left: 550px;
+    margin-top: -30px;
+}
+.ul2 li{
+    float: left;
+    width: 20px;
+    font-size: 25px;
+    color: white;
+}
+.zs{
+    margin-top: 100px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.ff{
+
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+.tj{
+    display: block;
+    margin-top: 100px;
+}
